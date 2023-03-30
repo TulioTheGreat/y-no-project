@@ -7,7 +7,7 @@ O projeto Y-NO, é um website que tem como objetivo a apresentação da Banda Y-
 ## Funcionalidades
 
 * Acompanhar suas próximas músicas
-* Ouvir todas as suas músicas
+* Ouvir todas as suas obras
 * Apreciar o quão enorme é a sua comunidade do Youtube
 ## Autores
 
