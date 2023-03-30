@@ -1,7 +1,7 @@
 
 # Projeto Y-NO
 
-O projeto Y-NO, é um website que tem como objetivo a apresentação da Banda Y-NO e suas músicas mais recentes.
+O projeto Y-NO é um website que tem como objetivo a apresentação da Banda Y-NO e suas músicas mais recentes.
 
 
 ## Funcionalidades
